@@ -1,0 +1,5 @@
+C:\Users\dell\Lectures\Edit Contact by Name\Edit Contact\Edit Contact\obj\Debug\netcoreapp3.1\Edit Contact.csproj.AssemblyReference.cache
+C:\Users\dell\Lectures\Edit Contact by Name\Edit Contact\Edit Contact\obj\Debug\netcoreapp3.1\Edit Contact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Lectures\Edit Contact by Name\Edit Contact\Edit Contact\obj\Debug\netcoreapp3.1\Edit Contact.AssemblyInfoInputs.cache
+C:\Users\dell\Lectures\Edit Contact by Name\Edit Contact\Edit Contact\obj\Debug\netcoreapp3.1\Edit Contact.AssemblyInfo.cs
+C:\Users\dell\Lectures\Edit Contact by Name\Edit Contact\Edit Contact\obj\Debug\netcoreapp3.1\Edit Contact.csproj.CoreCompileInputs.cache
